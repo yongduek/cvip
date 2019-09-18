@@ -1,2 +1,1 @@
-# cvip
-Computer Vision &amp; Image Processing
+# CVIP Computer Vision &amp; Image Processing
