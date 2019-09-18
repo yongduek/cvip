@@ -1,0 +1,8 @@
+./data/ko-00000000.png	가나다
+./data/ko-00000001.png	나가다
+./data/ko-00000002.png	다나가
+./data/ko-00000003.png	나다가
+./data/ko-00000004.png	나나다
+./data/ko-00000005.png	나다다
+./data/ko-00000006.png	가가나
+./data/ko-00000007.png	가다나
