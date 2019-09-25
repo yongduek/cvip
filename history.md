@@ -14,5 +14,6 @@
 - color space representation: RGB, HSV
     - color rotation in the H-space
     - RGB -> HSV conversion with opencv and skimage (check the result data type)
-    
+- vscode
+
 # 4. 
