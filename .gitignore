@@ -80,3 +80,4 @@ results/calib-pattern-res-11.png
 results/calib-pattern-res-12.png
 undistorted.png
 opencv-doc/pattern_tools/__pycache__/svgfig.cpython-37.pyc
+.vscode/settings.json
